@@ -27,3 +27,5 @@ Finally we are printing our output on our console with ``System.out.println``
 The + is used to concat strings. JAVA lang takes everything as String so we need to concat the strings in order to get the 
 desired output at our console hence we use ``+``
 So on our console the output will be like ``The Reult is : 3`` where the 3 is what we concatinated into the string.
+
+![alt tag](http://i.imgur.com/fDGaQu6.png)
