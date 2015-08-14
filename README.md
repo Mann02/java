@@ -1,5 +1,5 @@
 # Scanner-in-JAVA
-What is Scanner class and how to use it in our programs
+**What is Scanner class and how to use it in our programs**
 
 Scanner class is a predefined JAVA class which is used to take input from the user.
 Scanner class need package for its functioning. The __util__ package contain the required files for the Scanner class to work
