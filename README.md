@@ -1,4 +1,4 @@
-# Scanner-in-JAVA
+# Whats this github for?
 
 Github made for educational purpose
 
