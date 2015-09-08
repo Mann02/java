@@ -32,4 +32,4 @@ So we made a try and catch block where we made a for loop which loops i until it
 If you have problems in try and catch, make sure to read my try catch tutorial. If its not done, dont worry i will be making it soon. 
 
 
-Thank You dont forget to mail me your problems at aerosammann : [[aerosammann1702@gmail.com]]
+Thank You dont forget to mail me your problems at aerosammann : aerosammann1702@gmail.com
