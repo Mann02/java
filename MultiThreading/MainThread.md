@@ -2,7 +2,7 @@ Threads can be controlled and implemented in two ways, either using the MainThre
 
 Lets first see how thread work when we use the main thread.
 
-`` class ThreadDemo {
+ class ThreadDemo {
   public static void main(String args[]) {
   
    Thread sc = Thread.currentThread(); 
@@ -21,4 +21,4 @@ Lets first see how thread work when we use the main thread.
       System.out.println("Mainthread interrupted. Error message: " +ae);
     }
   }
-}  ``
+} ::
