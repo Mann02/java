@@ -31,5 +31,22 @@ So we made a try and catch block where we made a for loop which loops i until it
 
 If you have problems in try and catch, make sure to read my try catch tutorial. If its not done, dont worry i will be making it soon. 
 
+#Output
+
+```
+Current Thread is: Thread[main,5,main]
+New Thread is: Thread[WatchOut,5,main]
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+```
+
 
 Thank You dont forget to mail me your problems at aerosammann : aerosammann1702@gmail.com
